@@ -30,3 +30,35 @@ Some date fields are stored as plain text; conversion to proper date format will
 Missing data is minimal in core tables, higher in dashboard snapshot.
 <img width="1915" height="903" alt="Screenshot 2025-08-15 225751" src="https://github.com/user-attachments/assets/5bf1e51f-5d2d-4996-af80-f658c87d4621" />
 
+Total Cases: 3.44 crore
+
+Recovered: 98.3%
+
+Active Cases: 0.4%
+
+Death Rate: 1.3%
+
+Highlights states with the highest case counts (Maharashtra, Andaman & Nicobar) and deaths (Maharashtra, Lakshadweep).
+
+Main visualizations:
+
+Top-left bar chart — State-wise Total Cases vs Discharged counts.
+
+Top-right bar chart — State-wise Active Cases vs Deaths.
+
+Pie chart (Case by Zone) — Distribution of cases by region: South 40%, West 27%, East 17%, North 16%.
+
+Bottom-left bar chart — Recovery rate (%) per state. Most states are above 95%, with several at or near 100%.
+
+Bottom-right bar chart — Death ratio (%) per state, ranging from near 0% to about 2.5–3%.
+
+Filters on the right:
+
+Zone — East, North, South, West.
+
+State/UTs — Multi-select list of Indian states and territories.
+
+Death Ratio — Above Average / Below Average categories.
+
+Overall, this dashboard is designed for quick assessment of COVID-19 spread, recovery, and mortality patterns across Indian states and regions, with interactive filtering to focus on specific areas.
+
